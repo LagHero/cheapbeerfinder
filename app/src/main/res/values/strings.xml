@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cheap Beer Finder</string>
+    <string name="title_activity_beer_map">Map</string>
+</resources>
